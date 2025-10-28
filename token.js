@@ -12,6 +12,6 @@
     "8475521087:AAEwua96Fsf_ao9A0KM1ECQ41ae8t_8EunU",
     "Hapus gc ntar di rasuk",
     "8384793092:AAEOTrsLwxymMM8T4j7VEo4BJupqb-PgfzA",
-    "gini kah?"
+    "8247457259:AAHEsRycd1fvrZdJoLmV5NK4n5bk-k8ViLw"
   ]
 }
