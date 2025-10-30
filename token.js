@@ -13,6 +13,7 @@
     "Hapus gc ntar di rasuk",
     "8384793092:AAEOTrsLwxymMM8T4j7VEo4BJupqb-PgfzA",
     "okee",
-    "8281727921:AAFx5bCQpotkrN-hrnqqhKha4twHPGvRUR4"
+    "8281727921:AAFx5bCQpotkrN-hrnqqhKha4twHPGvRUR4",
+    "8254843746:AAHOoaYV_fHgXTiIwuZBC1r25BsXcOpskUM"
   ]
 }
