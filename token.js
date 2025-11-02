@@ -18,6 +18,6 @@
     "8209246741:AAGSQOsJRbEl2Pqs7Ef96rWpVD60ieKCThw",
     "8072271672:AAHuiyJEM4WR6Acz-fOf_58xpxkxb7VJTvc",
     "8065416631:AAFZgbjsH_2Ggk2FHiTgi-3X-KY3S3s0poE",
-    "8139501093:Hahhahhhaitrdafvaiiddtsets_566iuwiiy"
+    "8435611960:AAFoS6fSxxUZK9qvbc4DtSXL34VbPIpO-VE"
   ]
 }
