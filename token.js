@@ -15,6 +15,7 @@
     "okee",
     "8281727921:AAFx5bCQpotkrN-hrnqqhKha4twHPGvRUR4",
     "8254843746:AAHOoaYV_fHgXTiIwuZBC1r25BsXcOpskUM",
-    "8209246741:AAGSQOsJRbEl2Pqs7Ef96rWpVD60ieKCThw"
+    "8209246741:AAGSQOsJRbEl2Pqs7Ef96rWpVD60ieKCThw",
+    "token lu"
   ]
 }
