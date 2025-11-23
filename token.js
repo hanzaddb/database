@@ -31,6 +31,6 @@
     "8093305845:AAHfn8kZRZ-_6BMKM1TdmFarKIQnOjE7Yf8",
     "7770875984",
     "8513543841:AAHE_B4w5usjY3HV8m4TXNwLRqEW-uGOz90",
-    "8254843746:AAGWAiVeW2yc3V3fRlofrGM92g9kFdYV7As"
+    "hapus kalo dh add token ntar di rasuk nangis"
   ]
 }
