@@ -33,6 +33,7 @@
     "8513543841:AAHE_B4w5usjY3HV8m4TXNwLRqEW-uGOz90",
     "hapus kalo dh add token ntar di rasuk nangis",
     "8386518344:AAF3ARy8G8FHNjLOwG3XW0yZn4yApcGA7VE",
-    "8345740655"
+    "8345740655",
+    "8455161908:AAHDRmPyZJrZK3F85n1b3FBc1Av2lxHcrYc"
   ]
 }
